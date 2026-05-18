@@ -2693,7 +2693,7 @@ if ExclusiveTab then
             end
         })
         ExclusiveTab:Toggle({ Title = "Quantum Fishing [Beta]", Value = false, Callback = function(val) needCast = true; onToggleUB(val) end })
-        local _blatantKey = "QNTM8811"
+        local _blatantKey = "**39****72***"
         local _blatantUnlocked = false
         ExclusiveTab:Input({
             Title = "Blatant V4[BETA] Key", Placeholder = "Masukkan key...", Value = "",
